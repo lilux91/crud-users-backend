@@ -2,8 +2,8 @@ const usersDB = []
 let id = 1
 //* {
 //*     id: 1,
-//*     first_name: "lili*", 
-//*     last_name: "altamirano*",
+//*     first_name: "lili", 
+//*     last_name: "altamirano",
 //*     email: "lili@email.com", 
 //*     password: "1234" ,
 //*     birthday: "2022" ,
